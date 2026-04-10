@@ -37,7 +37,6 @@
 
 
 ## 📈 Produtividade e Linguagens
-![Top Langs](https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Python+Developer;Django+Back-end;Data+Analysis+with+Pandas)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
