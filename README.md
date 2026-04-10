@@ -51,7 +51,7 @@
 
 - 🤝 Aberto(a) a colaborações em projetos escolares ou pessoais.
 
-- 💬 Me pergunte sobre front-end, games ou cultura nerd!
+- 💬 Me pergunte sobre programação, games ou cultura nerd!
  
 ---
  
