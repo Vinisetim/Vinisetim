@@ -36,13 +36,14 @@
 </td><td valign="top" width="33%">
 
 
-### 📊 Meus stats no GitHub
- 
+## 📊 Meus stats no GitHub
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vinisetim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Gráfico de atividades" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinisetim&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Gráfico de linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinisetim&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinisetim&layout=compact&langs_count=5&theme=dracula&locale=pt-br" alt="Linguagens mais usadas" />
 </div>
- 
+
 ---
  
 ### 🎯 Sobre mim
