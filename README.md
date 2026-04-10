@@ -36,13 +36,15 @@
 </td><td valign="top" width="33%">
 
 
-## 📊 Meus stats no GitHub
+## 📈 Produtividade e Linguagens
+![Top Langs](https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Python+Developer;Django+Back-end;Data+Analysis+with+Pandas)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinisetim&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub" />
-  
-  <br> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinisetim&layout=compact&langs_count=5&theme=dracula&locale=pt-br" alt="Linguagens mais usadas" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
 
 
 
