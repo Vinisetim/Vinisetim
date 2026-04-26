@@ -42,18 +42,18 @@
 ---
 
 ### 🚀 Projeto em Destaque: TCC - Dashboard Barueri
-[cite_start]Estou desenvolvendo uma interface modular e dinâmica para visualização de indicadores (KPIs) de Barueri[cite: 9, 12].
+Estou desenvolvendo uma interface modular e dinâmica para visualização de indicadores (KPIs) de Barueri.
 
 - **Frontend:** Dash (Plotly) para painéis 100% Python.
-- **Manipulação de Dados:** Pandas e Requests para consumo de APIs (IBGE/Prefeitura)[cite: 2, 6].
+- **Manipulação de Dados:** Pandas e Requests para consumo de APIs (IBGE/Prefeitura).
 - **Persistência:** PostgreSQL com SQLAlchemy para gestão de configurações e login.
-- **Foco:** Interface otimizada para telas remotas e tablets[cite: 10, 12].
+- **Foco:** Interface otimizada para telas remotas e tablets.
 
 ---
  
 ### 🎯 Sobre mim
  
-- 🚀 No trabalho, busco aplicar automação com Power Automate para facilitar o dia a dia.
+- 🚀 No trabalho, busco aplicar automação para facilitar o dia a dia.
 - 💬 Me pergunte sobre programação, games ou cultura nerd!
  
 ---
