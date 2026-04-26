@@ -25,6 +25,11 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+#### 📊 Linguagens mais utilizadas
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinisetim&layout=compact&langs_count=7&theme=dracula" />
+</div>
+
 #### 🎯 Foco Atual: Ecossistema Python
 <div align="center">  
   <a href="https://www.python.org/" target="_blank">
@@ -55,4 +60,4 @@
  
 ### 📫 Contato
  
-- 📧 **Email**: viniciusgomesmail@gmail.com 
+- 📧 **Email**: viniciusgomesmail@gmail.com
